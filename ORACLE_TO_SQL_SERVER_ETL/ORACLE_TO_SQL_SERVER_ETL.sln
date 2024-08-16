@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ORACLE_TO_SQL_SERVER_ETL", "ORACLE_TO_SQL_SERVER_ETL\ORACLE_TO_SQL_SERVER_ETL.dtproj", "{BCF69A3F-B0BB-4B59-88D9-3D9F72E1A448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF69A3F-B0BB-4B59-88D9-3D9F72E1A448}.Development|Default.ActiveCfg = Development
+		{BCF69A3F-B0BB-4B59-88D9-3D9F72E1A448}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77607F9F-1A80-4B07-B9D0-5A415145B2BB}
+	EndGlobalSection
+EndGlobal
